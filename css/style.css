@@ -6,6 +6,9 @@
 	background-color: #17274F;
 }
 
+.fondo{
+	background-color: #204F9F;
+}
 
 .login-screen .page-content{
 	background-image: url(../img/fondoregistre-01.jpg) !important;
@@ -32,10 +35,7 @@
 
 
 
-/*página principal*/
-.pg{
-	background-color: #204F9F;
-}
+
 
 .hero .hero-info{
 	position: absolute;
